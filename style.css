@@ -1,7 +1,7 @@
 @import url("styles/header.css");
 @import url("styles/banner.css");
 @import url("styles/carrossel.css");
-@import url("styles/tópicos.css");
+@import url("styles/topicos.css");
 @import url("styles/contato.css");
 @import url("styles/rodape.css");
 
@@ -14,6 +14,9 @@
     --azul:#002F52;
     --font-secundaria: "Josefin Sans";
     --preto: #000000;
+    --cinza: #474646;
+    --cinza-claro: #858585;
+
     
 
 
